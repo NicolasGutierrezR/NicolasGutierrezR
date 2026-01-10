@@ -22,7 +22,7 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=NicolasGutierrezR&show_icons=true&theme=radical&hide_border=true"
+    src="https://github.com/JuanPE-PNG/Film-Meter"
     height="165"
   />
   <img
