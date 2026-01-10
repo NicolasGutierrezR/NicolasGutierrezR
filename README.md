@@ -1,17 +1,19 @@
 <div align="center">
-  <h1><strong>👋 Hi, I'm Nicolás Gutiérrez!</strong></h1>
+
+# 👋 Hi, I'm Nicolás Gutiérrez  
+### Systems Engineering Student · Backend-Oriented Developer
+
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/HxFOgW9.png" alt="Banner" width="100%" />
+  <img src="./banner.png" width="100%" alt="Banner"/>
 </p>
 
 ---
 
 <div align="center">
-  <h3>💻 Systems Engineering Student | Universidad del Valle</h3>
-  🚀 Passionate about software development and learning new technologies.  
-  📌 Currently working on projects with **Kotlin, Spring Boot, React, and TypeScript**.
+🚀 Passionate about software development and building solid backend solutions.  
+📍 Systems Engineering student at **Universidad del Valle**.
 </div>
 
 ---
@@ -19,17 +21,54 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StivenHenao&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=StivenHenao&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StivenHenao&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=TU_USERNAME&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,firebase,spring,git,github,postgres,sqlite,docker,html,css,javascript,figma,postman
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,mysql,git,github,docker,react,js,html,css&theme=dark" />
+</div>
+
+---
+
+## 📌 About Me
+- 🎓 Systems Engineering student at **Universidad del Valle**
+- 💻 Focused on **backend development** with **Kotlin & Spring Boot**
+- 🧠 Strong interest in **software architecture and databases**
+- 🌐 Frontend experience with **React** and **JavaScript**
+- 🤝 Open to academic, collaborative, and learning-driven projects
+- 🌍 Spanish (native) | English (intermediate)
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=WikiFut&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USERNAME&repo=springboot-microservices-jwt&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📺 YouTube Channel
+*Where I share some of my academic and development projects*
+
+<p align="center">
+  <a href="https://www.youtube.com/@stivenh04">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> *Building software with purpose, one project at a time.*
+
+![snake](https://github.com/TU_USERNAME/TU_USERNAME/blob/output/github-snake-dark.svg)
+
 
 <!--
 **NicolasGutierrezR/NicolasGutierrezR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
