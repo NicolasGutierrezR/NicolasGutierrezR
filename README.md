@@ -21,9 +21,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=TU_USERNAME&theme=radical&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NicolasGutierrezR&show_icons=true&theme=radical&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=NicolasGutierrezR&theme=radical&hide_border=true"
+    height="165"
+  />
 </div>
+
 
 ---
 
@@ -54,16 +61,6 @@
 
 ---
 
-## 📺 YouTube Channel
-*Where I share some of my academic and development projects*
-
-<p align="center">
-  <a href="https://www.youtube.com/@stivenh04">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
----
 
 > *Building software with purpose, one project at a time.*
 
